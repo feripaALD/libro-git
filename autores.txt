@@ -1,0 +1,2 @@
+user.name=annauvarova
+user.email=uvarova.anna.ald@gmail.com
